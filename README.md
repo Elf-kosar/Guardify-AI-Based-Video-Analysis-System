@@ -144,11 +144,6 @@ Asagidaki gorseller, sistemin farkli risk seviyelerinde nasil calistigini goster
 - Analiz yavas ise:
   - Ilk model yuklemeleri normal olarak daha uzun surebilir
 
-## Gelistirme Notlari
-
-- Kod stili ve lint duzenlemeleri yapildi (Flutter analyze temiz)
-- Gecici dosyalar ve loglar icin kok dizinde .gitignore konumlandirildi
-
 ---
 
-Hazirlayan: Guardify Gelistirme Akisi
+Hazirlayan: elfkosar21@gmail.com
