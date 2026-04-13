@@ -113,26 +113,9 @@ $env:GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
 
 ## Ekran Goruntuleri (6 Adet)
 
-Asagidaki gorseller, sistemin farkli risk seviyelerinde nasil calistigini gosterir.
-
-### 1) Detayli analiz - Cocuklara uygun (ust bolum)
-![Detayli analiz cocuklara uygun 1](docs/screenshots/screenshot-01.png)
-
-### 2) Detayli analiz - Cocuklara uygun (AI raporu)
-![Detayli analiz cocuklara uygun 2](docs/screenshots/screenshot-02.png)
-
-### 3) Detayli analiz - Dikkat seviyesi (ust bolum)
-![Detayli analiz dikkat 1](docs/screenshots/screenshot-03.png)
-
-### 4) Detayli analiz - Dikkat seviyesi (AI raporu)
-![Detayli analiz dikkat 2](docs/screenshots/screenshot-04.png)
-
-### 5) Detayli analiz - Riskli (ust bolum)
-![Detayli analiz riskli 1](docs/screenshots/screenshot-05.png)
-
-### 6) Detayli analiz - Riskli (AI raporu)
-![Detayli analiz riskli 2](docs/screenshots/screenshot-06.png)
-
+<pre>
+  <img src="docs/screenshots/screenshot-01.png" width="600"> <img src="docs/screenshots/screenshot-02.png" width="600"> <img src="docs/screenshots/screenshot-03.png" width="600"> <img src="docs/screenshots/screenshot-04.png" width="600"> <img src="docs/screenshots/screenshot-05.png" width="600"> <img src="docs/screenshots/screenshot-06.png" width="600">
+</pre>
 ## Sorun Giderme
 
 - ModuleNotFoundError alirsaniz:
