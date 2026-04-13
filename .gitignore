@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime logs
+*.log
+
+# Local environment/secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# Runtime output folders
+temp/
+uploads/
+
+# Generated analysis outputs
+video_analysis_*.json
+
+# Flutter build artifacts
+child_guard/build/
