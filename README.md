@@ -114,7 +114,7 @@ $env:GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
 ## Ekran Goruntuleri (6 Adet)
 
 <pre>
-  <img src="docs/screenshots/screenshot-01.png" width="300"> <img src="docs/screenshots/screenshot-02.png" width="350"> <img src="docs/screenshots/screenshot-03.png" width="300"> <img src="docs/screenshots/screenshot-04.png" width="350"> <img src="docs/screenshots/screenshot-05.png" width="300"> <img src="docs/screenshots/screenshot-06.png" width="350">
+  <img src="docs/screenshots/screenshot-01.png" width="300"> <img src="docs/screenshots/screenshot-02.png" width="300"> <img src="docs/screenshots/screenshot-03.png" width="300"> <img src="docs/screenshots/screenshot-04.png" width="300"> <img src="docs/screenshots/screenshot-05.png" width="300"> <img src="docs/screenshots/screenshot-06.png" width="300">
 </pre>
 ## Sorun Giderme
 
