@@ -111,7 +111,7 @@ $env:GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
   - analysis.multimodal_evaluation.safety_score
   - analysis.multimodal_evaluation.gemini_analysis
 
-## Ekran Goruntuleri (6 Adet)
+## Ekran Goruntuleri
 
 <pre>
   <img src="docs/screenshots/screenshot-01.png" width="300"> <img src="docs/screenshots/screenshot-02.png" width="300"> <img src="docs/screenshots/screenshot-03.png" width="300"> <img src="docs/screenshots/screenshot-04.png" width="300"> <img src="docs/screenshots/screenshot-05.png" width="300"> <img src="docs/screenshots/screenshot-06.png" width="300">
